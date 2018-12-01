@@ -51,4 +51,19 @@ h1 {
     #social a img {
       height: 30px; }
 
+#projects {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+  #projects h3 {
+    font-family: avenir-light;
+    font-size: 22px; }
+  #projects ul {
+    width: 80%; }
+    #projects ul li {
+      font-family: avenir-light;
+      font-size: 18px;
+      width: 100%; }
+
 /*# sourceMappingURL=style.css.map */

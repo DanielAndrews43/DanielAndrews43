@@ -61,3 +61,26 @@ h1 {
     }
   }
 }
+
+#projects {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  h3 {
+    font-family: avenir-light;
+    font-size: 22px;
+  }
+
+  ul {
+    width: 80%;
+
+    li {
+      font-family: avenir-light;
+      font-size: 18px;
+      width: 100%;
+    }
+  }
+
+}
