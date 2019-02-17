@@ -79,6 +79,9 @@ h1 {
     #projects ul li {
       font-size: 18px;
       width: 100%; }
+      #projects ul li a:hover {
+        opacity: 0.9;
+        text-decoration: none; }
 
 #footer {
   width: 100%;
