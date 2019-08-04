@@ -24,6 +24,13 @@ time, mark, audio, video {
 	src: url(./avenir-light.ttf);
 }
 
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 #nav {
   display: flex;
   flex-direction: row;
